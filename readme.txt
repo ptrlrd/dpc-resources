@@ -1,0 +1,36 @@
+# Resources & Websites
+To add a resources open a PR against this [github repo](https://github.com/ptrlrd/dpc-resources)
+
+## Devops
+- SRE - <https://sre.google/books/>
+- DevOps Roadmap - <https://roadmap.sh/devops>
+- DevOps Ecosystem - https://cdn.discordapp.com/attachments/978970709361586186/983068166492139540/unknown.png
+- DevOps & Scrum - https://cdn.discordapp.com/attachments/978970709361586186/1001219564874518570/unknown.png
+
+## Programming/ Coding
+
+## Front End & Backend
+- Clean JavaScript - <https://github.com/ryanmcdermott/clean-code-javascript>
+- JS Patterns - <https://www.patterns.dev/>
+- Backend Practicing - <https://github.com/Sairyss/backend-best-practices>
+- Full Stack Start Template - <https://github.com/Sairyss/fullstack-starter-template>
+- T3 Stack - <https://create.t3.gg/>
+
+## Hardware
+- Helpful IOT Information - <https://iotatlas.net/>
+
+## General Tech
+- Blog - <https://itsfoss.com/>
+- Open Source Landscape - <https://landscape.cncf.io/>
+- Ultimate Awesome List - <https://github.com/sindresorhus/awesome>
+- Stack Overflow Developer Survey - <https://insights.stackoverflow.com/survey/2021>
+- Best Practices - <https://nimblehq.co/compass>
+- Open Source Alternatives - <https://www.opensourcealternative.to/>
+- Domain Driven Design - <https://github.com/Sairyss/domain-driven-hexagon>
+
+# Newsletters
+- Big Tech Digest - <https://bigtechdigest.substack.com/p/big-tech-digest-1>
+
+# Discord Servers
+- Self Hosted - <https://discord.com/invite/U3Gvr54VRp>
+- TS-rest - <https://discord.gg/DjwHqMM49V>
