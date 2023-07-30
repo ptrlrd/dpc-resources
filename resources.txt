@@ -1,5 +1,5 @@
 # Resources & Websites
-To add a resources open a PR against this [github repo](https://dpc.gg/resources) test12
+To add a resources open a PR against this [github repo](https://dpc.gg/resources) New test
 
 ## Devops
 - SRE - <https://sre.google/books/>
