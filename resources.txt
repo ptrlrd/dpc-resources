@@ -1,5 +1,5 @@
 # Resources & Websites
-To add a resources open a PR against this repo <https://github.com/ptrlrd/dpc-resources/>.
+To add a resources open a PR against this repo <https://github.com/ptrlrd/dpc-resources/>
 
 ## DPC 
 - DPC - <https://dpc.gg>
