@@ -15,6 +15,7 @@ To add a resources open a PR against this repo <https://github.com/ptrlrd/dpc-re
 - Backend Practicing - <https://github.com/Sairyss/backend-best-practices>
 - Full Stack Start Template - <https://github.com/Sairyss/fullstack-starter-template>
 - T3 Stack - <https://create.t3.gg/>
+- Programming Challenges - <https://www.codewars.com/>
 
 ## Hardware
 - Helpful IOT Information - <https://iotatlas.net/>
