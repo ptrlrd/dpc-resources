@@ -1,6 +1,13 @@
 # Resources & Websites
 To add a resources open a PR against this repo <https://github.com/ptrlrd/dpc-resources/>.
 
+## DPC 
+- DPC - <https://dpc.gg>
+- DPC Invite - <https://discord.gg/devops-programming-cloud-930170875049820181>
+- Top.gg (Vote daily) - <https://top.gg/servers/930170875049820181#reviews>
+- Disboard (Vote daily) - <https://disboard.org/server/930170875049820181>
+- Discords (Vote daily) - <https://discords.com/servers/dev>
+
 ## Devops
 - SRE - <https://sre.google/books/>
 - DevOps Roadmap - <https://roadmap.sh/devops>
