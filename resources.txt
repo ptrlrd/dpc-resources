@@ -18,6 +18,7 @@ To add a resources open a PR against this repo <https://github.com/ptrlrd/dpc-re
 
 ## Front End & Backend
 - Clean JavaScript - <https://github.com/ryanmcdermott/clean-code-javascript>
+- Clean TypeScript - <https://github.com/labs42io/clean-code-typescript>
 - JS Patterns - <https://www.patterns.dev/>
 - Backend Practicing - <https://github.com/Sairyss/backend-best-practices>
 - Full Stack Start Template - <https://github.com/Sairyss/fullstack-starter-template>
