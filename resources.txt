@@ -9,6 +9,7 @@ To add a resources open a PR against this repo <https://github.com/ptrlrd/dpc-re
 - Discords (Vote daily) - <https://discords.com/servers/dev>
 
 ## Devops
+- DevopsCube - <https://devopscube.com/>
 - SRE - <https://sre.google/books/>
 - DevOps Roadmap - <https://roadmap.sh/devops>
 - DevOps Ecosystem - https://cdn.discordapp.com/attachments/978970709361586186/983068166492139540/unknown.png
