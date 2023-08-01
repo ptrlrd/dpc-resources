@@ -16,6 +16,7 @@ To add a resources open a PR against this repo <https://github.com/ptrlrd/dpc-re
 - DevOps & Scrum - https://cdn.discordapp.com/attachments/978970709361586186/1001219564874518570/unknown.png
 
 ## Programming/ Coding
+- Leetcode - <https://leetcode.com/>
 
 ## Front End & Backend
 - Clean JavaScript - <https://github.com/ryanmcdermott/clean-code-javascript>
