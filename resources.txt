@@ -12,8 +12,6 @@ To add a resources open a PR against this repo <https://github.com/ptrlrd/dpc-re
 - DevopsCube - <https://devopscube.com/>
 - SRE - <https://sre.google/books/>
 - DevOps Roadmap - <https://roadmap.sh/devops>
-- DevOps Ecosystem - https://cdn.discordapp.com/attachments/978970709361586186/983068166492139540/unknown.png
-- DevOps & Scrum - https://cdn.discordapp.com/attachments/978970709361586186/1001219564874518570/unknown.png
 
 ## Programming/ Coding
 - Leetcode - <https://leetcode.com/>
