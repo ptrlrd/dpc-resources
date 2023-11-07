@@ -36,6 +36,7 @@ Want to promote your server or add an resource to our repository? Submit a PR ag
 - Best Practices - <https://nimblehq.co/compass>
 - Open Source Alternatives - <https://www.opensourcealternative.to/>
 - Domain Driven Design - <https://github.com/Sairyss/domain-driven-hexagon>
+- The Missing Semester of Your CS Education - <https://missing.csail.mit.edu/>
 
 # Newsletters
 - Big Tech Digest - <https://bigtechdigest.substack.com/p/big-tech-digest-1>
