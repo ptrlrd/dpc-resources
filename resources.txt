@@ -1,5 +1,5 @@
 ## Resources & Websites
-Want to promote your server or add an resource to our repository? Submit a PR against this repo <https://github.com/ptrlrd/dpc-resources/>!
+Want to promote your server or add a resource to our repository? Submit a PR against this repo <https://github.com/ptrlrd/dpc-resources/>!
 
 ## DPC 
 - DPC - <https://dpc.gg>
@@ -15,6 +15,7 @@ Want to promote your server or add an resource to our repository? Submit a PR ag
 
 ## Programming/ Coding
 - Leetcode - <https://leetcode.com/>
+- Codewars - <https://www.codewars.com/>
 
 ## Front End & Backend
 - Clean JavaScript - <https://github.com/ryanmcdermott/clean-code-javascript>
@@ -31,6 +32,8 @@ Want to promote your server or add an resource to our repository? Submit a PR ag
 
 ## General Tech
 - Blog - <https://itsfoss.com/>
+- GitHub CLI - <https://cli.github.com/>
+- DevDocs - <https://devdocs.io/>
 - Open Source Landscape - <https://landscape.cncf.io/>
 - Ultimate Awesome List - <https://github.com/sindresorhus/awesome>
 - Stack Overflow Developer Survey - <https://insights.stackoverflow.com/survey/2021>
@@ -38,6 +41,9 @@ Want to promote your server or add an resource to our repository? Submit a PR ag
 - Open Source Alternatives - <https://www.opensourcealternative.to/>
 - Domain Driven Design - <https://github.com/Sairyss/domain-driven-hexagon>
 - The Missing Semester of Your CS Education - <https://missing.csail.mit.edu/>
+
+## Courses
+- Sreyeesh's Udemy Page - <https://www.udemy.com/user/sreyeesh-garimella-4/?srsltid=AfmBOooSNQ7Y1pbWal1x_4b-rGhKSorUSuMGwXD9ciHF1Eft85lpzvCQ>
 
 # Newsletters
 - Big Tech Digest - <https://bigtechdigest.substack.com/p/big-tech-digest-1>
