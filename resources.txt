@@ -24,6 +24,7 @@ Want to promote your server or add an resource to our repository? Submit a PR ag
 - Full Stack Start Template - <https://github.com/Sairyss/fullstack-starter-template>
 - T3 Stack - <https://create.t3.gg/>
 - Programming Challenges - <https://www.codewars.com/>
+- The Cloud Resume Challenge - AWS - <https://cloudresumechallenge.dev/docs/the-challenge/aws/>
 
 ## Hardware
 - Helpful IOT Information - <https://iotatlas.net/>
