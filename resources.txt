@@ -43,7 +43,7 @@ Want to promote your server or add a resource to our repository? Submit a PR aga
 - The Missing Semester of Your CS Education - <https://missing.csail.mit.edu/>
 
 ## Courses
-- Sreyeesh's Udemy Page - <https://www.udemy.com/user/sreyeesh-garimella-4/?srsltid=AfmBOooSNQ7Y1pbWal1x_4b-rGhKSorUSuMGwXD9ciHF1Eft85lpzvCQ>
+- (CurryFury's) Udemy Page - <https://www.udemy.com/user/sreyeesh-garimella-4/?srsltid=AfmBOooSNQ7Y1pbWal1x_4b-rGhKSorUSuMGwXD9ciHF1Eft85lpzvCQ>
 
 # Newsletters
 - Big Tech Digest - <https://bigtechdigest.substack.com/p/big-tech-digest-1>
