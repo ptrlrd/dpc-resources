@@ -1,26 +1,26 @@
-# Resources & Websites
+## Resources & Websites
 Want to promote your server or add a resource to our repository? Submit a PR against this repo <https://github.com/ptrlrd/dpc-resources/>!
 
-# Courses
+## Courses
 - (CurryFury's) Udemy Page - <https://www.udemy.com/user/sreyeesh-garimella-4/?srsltid=AfmBOooSNQ7Y1pbWal1x_4b-rGhKSorUSuMGwXD9ciHF1Eft85lpzvCQ>
 
-# DevOps
+## DevOps
 - DevOps Roadmap - <https://roadmap.sh/devops>
 - DevopsCube - <https://devopscube.com/>
 - SRE - <https://sre.google/books/>
 
-# Discord Servers
+## Discord Servers
 - Self Hosted - <https://discord.com/invite/U3Gvr54VRp>
 - TS-rest - <https://discord.gg/DjwHqMM49V>
 
-# DPC
+## DPC
 - Disboard (Vote daily) - <https://disboard.org/server/930170875049820181>
 - Discords (Vote daily) - <https://discords.com/servers/dev>
 - DPC - <https://dpc.gg>
 - DPC Invite - <https://discord.gg/devops-programming-cloud-930170875049820181>
 - Top.gg (Vote daily) - <https://top.gg/servers/930170875049820181#reviews>
 
-# Front End & Backend
+## Front End & Backend
 - Backend Practicing - <https://github.com/Sairyss/backend-best-practices>
 - Clean JavaScript - <https://github.com/ryanmcdermott/clean-code-javascript>
 - Clean TypeScript - <https://github.com/labs42io/clean-code-typescript>
@@ -42,17 +42,17 @@ Want to promote your server or add a resource to our repository? Submit a PR aga
 - The Missing Semester of Your CS Education - <https://missing.csail.mit.edu/>
 - Ultimate Awesome List - <https://github.com/sindresorhus/awesome>
 
-# Hardware
+## Hardware
 - Helpful IOT Information - <https://iotatlas.net/>
 
-# Newsletters
+## Newsletters
 - Big Tech Digest - <https://bigtechdigest.substack.com/p/big-tech-digest-1>
 
-# Programming/Coding
+## Programming/Coding
 - Codewars - <https://www.codewars.com/>
 - Leetcode - <https://leetcode.com/>
 
-# Self Hosted
+## Self Hosted
 - Authentik - <https://goauthentik.io/>
 - Caddy Server - <https://caddyserver.com/>
 - Changedetection.io - <https://github.com/dgtlmoon/changedetection.io>
