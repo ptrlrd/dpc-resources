@@ -1,53 +1,74 @@
-## Resources & Websites
+# Resources & Websites
 Want to promote your server or add a resource to our repository? Submit a PR against this repo <https://github.com/ptrlrd/dpc-resources/>!
 
-## DPC 
-- DPC - <https://dpc.gg>
-- DPC Invite - <https://discord.gg/devops-programming-cloud-930170875049820181>
-- Top.gg (Vote daily) - <https://top.gg/servers/930170875049820181#reviews>
-- Disboard (Vote daily) - <https://disboard.org/server/930170875049820181>
-- Discords (Vote daily) - <https://discords.com/servers/dev>
-
-## Devops
-- DevopsCube - <https://devopscube.com/>
-- SRE - <https://sre.google/books/>
-- DevOps Roadmap - <https://roadmap.sh/devops>
-
-## Programming/ Coding
-- Leetcode - <https://leetcode.com/>
-- Codewars - <https://www.codewars.com/>
-
-## Front End & Backend
-- Clean JavaScript - <https://github.com/ryanmcdermott/clean-code-javascript>
-- Clean TypeScript - <https://github.com/labs42io/clean-code-typescript>
-- JS Patterns - <https://www.patterns.dev/>
-- Backend Practicing - <https://github.com/Sairyss/backend-best-practices>
-- Full Stack Start Template - <https://github.com/Sairyss/fullstack-starter-template>
-- T3 Stack - <https://create.t3.gg/>
-- Programming Challenges - <https://www.codewars.com/>
-- The Cloud Resume Challenge - AWS - <https://cloudresumechallenge.dev/docs/the-challenge/aws/>
-
-## Hardware
-- Helpful IOT Information - <https://iotatlas.net/>
-
-## General Tech
-- Blog - <https://itsfoss.com/>
-- GitHub CLI - <https://cli.github.com/>
-- DevDocs - <https://devdocs.io/>
-- Open Source Landscape - <https://landscape.cncf.io/>
-- Ultimate Awesome List - <https://github.com/sindresorhus/awesome>
-- Stack Overflow Developer Survey - <https://insights.stackoverflow.com/survey/2021>
-- Best Practices - <https://nimblehq.co/compass>
-- Open Source Alternatives - <https://www.opensourcealternative.to/>
-- Domain Driven Design - <https://github.com/Sairyss/domain-driven-hexagon>
-- The Missing Semester of Your CS Education - <https://missing.csail.mit.edu/>
-
-## Courses
+# Courses
 - (CurryFury's) Udemy Page - <https://www.udemy.com/user/sreyeesh-garimella-4/?srsltid=AfmBOooSNQ7Y1pbWal1x_4b-rGhKSorUSuMGwXD9ciHF1Eft85lpzvCQ>
 
-# Newsletters
-- Big Tech Digest - <https://bigtechdigest.substack.com/p/big-tech-digest-1>
+# DevOps
+- DevOps Roadmap - <https://roadmap.sh/devops>
+- DevopsCube - <https://devopscube.com/>
+- SRE - <https://sre.google/books/>
 
 # Discord Servers
 - Self Hosted - <https://discord.com/invite/U3Gvr54VRp>
 - TS-rest - <https://discord.gg/DjwHqMM49V>
+
+# DPC
+- Disboard (Vote daily) - <https://disboard.org/server/930170875049820181>
+- Discords (Vote daily) - <https://discords.com/servers/dev>
+- DPC - <https://dpc.gg>
+- DPC Invite - <https://discord.gg/devops-programming-cloud-930170875049820181>
+- Top.gg (Vote daily) - <https://top.gg/servers/930170875049820181#reviews>
+
+# Front End & Backend
+- Backend Practicing - <https://github.com/Sairyss/backend-best-practices>
+- Clean JavaScript - <https://github.com/ryanmcdermott/clean-code-javascript>
+- Clean TypeScript - <https://github.com/labs42io/clean-code-typescript>
+- Full Stack Start Template - <https://github.com/Sairyss/fullstack-starter-template>
+- JS Patterns - <https://www.patterns.dev/>
+- Programming Challenges - <https://www.codewars.com/>
+- T3 Stack - <https://create.t3.gg/>
+- The Cloud Resume Challenge - AWS - <https://cloudresumechallenge.dev/docs/the-challenge/aws/>
+
+# General Tech
+- Best Practices - <https://nimblehq.co/compass>
+- Blog - <https://itsfoss.com/>
+- DevDocs - <https://devdocs.io/>
+- Domain Driven Design - <https://github.com/Sairyss/domain-driven-hexagon>
+- GitHub CLI - <https://cli.github.com/>
+- Open Source Alternatives - <https://www.opensourcealternative.to/>
+- Open Source Landscape - <https://landscape.cncf.io/>
+- Stack Overflow Developer Survey - <https://insights.stackoverflow.com/survey/2021>
+- The Missing Semester of Your CS Education - <https://missing.csail.mit.edu/>
+- Ultimate Awesome List - <https://github.com/sindresorhus/awesome>
+
+# Hardware
+- Helpful IOT Information - <https://iotatlas.net/>
+
+# Newsletters
+- Big Tech Digest - <https://bigtechdigest.substack.com/p/big-tech-digest-1>
+
+# Programming/Coding
+- Codewars - <https://www.codewars.com/>
+- Leetcode - <https://leetcode.com/>
+
+# Self Hosted
+- Authentik - <https://goauthentik.io/>
+- Caddy Server - <https://caddyserver.com/>
+- Changedetection.io - <https://github.com/dgtlmoon/changedetection.io>
+- Dockge - <https://github.com/louislam/dockge>
+- Gitea - <https://about.gitea.com/>
+- Home Assistant - <https://home-assistant.io/>
+- Homer - <https://github.com/bastienwirtz/homer>
+- Kubernetes - <https://kubernetes.io/>
+- MinIO - <https://min.io/>
+- Ntfy.sh - <https://ntfy.sh/>
+- OpenHAB - <https://www.openhab.org/>
+- phpIPAM - <https://github.com/phpipam/phpipam>
+- Portainer - <https://www.portainer.io>
+- Proxmox - <https://proxmox.com/en/>
+- Speedtest Tracker - <https://github.com/alexjustesen/speedtest-tracker>
+- Traefik - <https://traefik.io/>
+- Uptime Kuma - <https://github.com/louislam/uptime-kuma>
+- Veeam - <https://www.veeam.com/>
+- Vikunja - <https://vikunja.io/>
