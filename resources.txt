@@ -72,3 +72,12 @@ Want to promote your server or add a resource to our repository? Submit a PR aga
 - Uptime Kuma - <https://github.com/louislam/uptime-kuma>
 - Veeam - <https://www.veeam.com/>
 - Vikunja - <https://vikunja.io/>
+
+## Tech Job Seeking - U.S.
+- Dice - <https://www.dice.com/jobs>
+- Glassdoor - <https://www.glassdoor.com/sitedirectory/title-jobs/IC-Information-Technology.htm>
+- Indeed - <https://www.indeed.com>
+- LinkedIn - <https://www.linkedin.com/jobs>
+- Levels - <https://www.levels.fyi/jobs>
+- Techfetch - <https://www.techfetch.com>
+- USAJobs - <https://www.usajobs.gov>
