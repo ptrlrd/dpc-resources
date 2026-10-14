@@ -50,6 +50,7 @@ Want to promote your server or add a resource to our repository? Submit a PR aga
 - NotPetya Cyber Attack - <https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/>
 - Stuxnet Cyber Attack - <https://nsarchive2.gwu.edu/NSAEBB/NSAEBB424/docs/Cyber-044.pdf>
 - OpenAI Hugging Face Incident - <https://openai.com/index/hugging-face-incident-and-the-road-ahead/>
+- WannaCry Ransomware - <https://www.cloudflare.com/learning/security/ransomware/wannacry-ransomware/>
 
 ## Newsletters
 - Big Tech Digest - <https://bigtechdigest.substack.com/p/big-tech-digest-1>
